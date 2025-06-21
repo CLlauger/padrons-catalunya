@@ -7,6 +7,7 @@ const App = () => {
   const [poblacio, setPoblacio] = useState();
   const [anySeleccionat, setAnySeleccionat] = useState(undefined);
   const [carrer, setCarrer] = useState();
+  const [valorSelector, setValorSelector] = useState();
 
   const [pagina, setPagina] = useState(0);
   const [totalPagines, setTotalPagines] = useState(0);
@@ -45,6 +46,7 @@ const App = () => {
                             setAnySeleccionat(a);
                             let nouCarrer = a.carrers[0];
                             setCarrer(nouCarrer);
+                            setValorSelector({value: nouCarrer, label: `${nouCarrer.via}${nouCarrer.nom}`});
                             setPagina(0);
                             setTotalPagines(nouCarrer.pagines.length);
                           }}>
@@ -57,16 +59,23 @@ const App = () => {
                   {anySeleccionat != undefined ?
                   <div>
                     <Select
-                      defaultValue={{value: anySeleccionat.carrers[0], label: `${anySeleccionat.carrers[0].via}${anySeleccionat.carrers[0].nom}`}}
+                      value={valorSelector}
+                      defaultValue={{value: carrer, label: `${carrer.via}${carrer.nom}`}}
                       options={anySeleccionat.carrers.flatMap((c) => {
                         let nom_es = c.nom_es != "" ? ` (${c.nom_es})` : "";
                         let label = `${c.via}${c.nom}${nom_es}`;
                         return {value: c, label: label}
                       })}
                       onChange={(opcio) => {
-                        setCarrer(opcio.value);
+                        let c = opcio.value;
+                        setCarrer(c);
+                        setValorSelector(() => {
+                          let nom_es = c.nom_es != "" ? ` (${c.nom_es})` : "";
+                          let label = `${c.via}${c.nom}${nom_es}`;
+                          return {value: c, label: label}
+                        });
                         setPagina(0);
-                        setTotalPagines(opcio.value.pagines.length);
+                        setTotalPagines(c.pagines.length);
                       }}
                       placeholder="Selecciona una via"
                       isSearchable
