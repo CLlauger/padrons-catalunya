@@ -5,6 +5,446 @@
         "ruta": "https://pandora.girona.cat/pdf.raw?query=id:%22[id]%22&page=[p]",
         "anys": [
             {
+                "any": 1842,
+                "categoria": "cens",
+                "id": "0003158969",
+                "carrers": [
+                    {
+                        "nom": "Portada",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [2,3]
+                    },
+                    {
+                        "nom": "Abeuradors",
+                        "via": "Carrer dels ",
+                        "nom_es": "Abeuradors",
+                        "pagines": [86]
+                    },
+                    {
+                        "nom": "Albereda",
+                        "via": "Carrer de l'",
+                        "nom_es": "Albareda",
+                        "pagines": [114,115,116]
+                    },
+                    {
+                        "nom": "Alemanys",
+                        "via": "Pujada dels ",
+                        "nom_es": "Alemanes",
+                        "pagines": [63,64]
+                    },
+                    {
+                        "nom": "Arcs dels Esparters",
+                        "via": "Carrer dels ",
+                        "nom_es": "Arcos de Esparteros",
+                        "pagines": [93,94]
+                    },
+                    {
+                        "nom": "Argenteria",
+                        "via": "Carrer de l'",
+                        "nom_es": "Platería",
+                        "pagines": [123,124,125,126]
+                    },
+                    {
+                        "nom": "Auriga",
+                        "via": "Carrer de l'",
+                        "nom_es": "Auriga",
+                        "pagines": [99,100]
+                    },
+                    {
+                        "nom": "Ballesteries",
+                        "via": "Carrer de les ",
+                        "nom_es": "Ballesterias",
+                        "pagines": [36,37,38,39,40,41]
+                    },
+                    {
+                        "nom": "Barca",
+                        "via": "Carrer de la ",
+                        "nom_es": "Barca",
+                        "pagines": [48,49,50,51,52]
+                    },
+                    {
+                        "nom": "Bellaire",
+                        "via": "Carrer del ",
+                        "nom_es": "Bellayre",
+                        "pagines": [52,53,58,59]
+                    },
+                    {
+                        "nom": "Bernardes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Bernardas",
+                        "pagines": [24,25]
+                    },
+                    {
+                        "nom": "Calderers",
+                        "via": "Carrer dels ",
+                        "nom_es": "Calderes",
+                        "pagines": [44,45]
+                    },
+                    {
+                        "nom": "Canaders",
+                        "via": "Carrer dels ",
+                        "nom_es": "Canaders",
+                        "pagines": [4,5,6,7]
+                    },
+                    {
+                        "nom": "Carme",
+                        "via": "Carrer del ",
+                        "nom_es": "Carmen",
+                        "pagines": [128,129,130,131]
+                    },
+                    {
+                        "nom": "Catedral",
+                        "via": "Pujada de la ",
+                        "nom_es": "Catedral",
+                        "pagines": [60,61,62]
+                    },
+                    {
+                        "nom": "Ciutadans",
+                        "via": "Carrer dels ",
+                        "nom_es": "Ciudadanos",
+                        "pagines": [107,108,109,110,111,112]
+                    },
+                    {
+                        "nom": "Cols",
+                        "via": "Plaça de les ",
+                        "nom_es": "Coles",
+                        "pagines": [117,118,119,120,121,122]
+                    },
+                    {
+                        "nom": "Constitució",
+                        "via": "Plaça de la ",
+                        "nom_es": "Constitución",
+                        "pagines": [113,114]
+                    },
+                    {
+                        "nom": "Cort Reial",
+                        "via": "Carrer de la ",
+                        "nom_es": "Cort Rl",
+                        "pagines": [88,89,90]
+                    },
+                    {
+                        "nom": "Ferreries Velles",
+                        "via": "Carrer de les ",
+                        "nom_es": "Ferreria Vella",
+                        "pagines": [86,87,88]
+                    },
+                    {
+                        "nom": "Fontanilles",
+                        "via": "Carrer de ",
+                        "nom_es": "Fontanillas",
+                        "pagines": [11,12,13]
+                    },
+                    {
+                        "nom": "Galera",
+                        "via": "Carrer de la ",
+                        "nom_es": "Galera",
+                        "pagines": [29,30]
+                    },
+                    {
+                        "nom": "Ginesta",
+                        "via": "Carrer dels ",
+                        "nom_es": "Ginesta",
+                        "pagines": [9,10,11]
+                    },
+                    {
+                        "nom": "Hortes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Hortas",
+                        "pagines": [25,26,27]
+                    },
+                    {
+                        "nom": "Hospital",
+                        "via": "Plaça de l'",
+                        "nom_es": "Hospital",
+                        "pagines": [5]
+                    },
+                    {
+                        "nom": "Institut",
+                        "via": "Pujada de l'",
+                        "nom_es": "Ynstituto",
+                        "pagines": [64,65,66,67]
+                    },
+                    {
+                        "nom": "Mercadal",
+                        "via": "Plaça del ",
+                        "nom_es": "Mercadal",
+                        "pagines": [22,23,24]
+                    },
+                    {
+                        "nom": "Mercaders",
+                        "via": "Carrer dels ",
+                        "nom_es": "Mercaders",
+                        "pagines": [90,91,92,93]
+                    },
+                    {
+                        "nom": "Molí",
+                        "via": "Plaça del ",
+                        "nom_es": "Molino",
+                        "pagines": [19,20]
+                    },
+                    {
+                        "nom": "Paó",
+                        "via": "Carrer del ",
+                        "nom_es": "Pavo",
+                        "pagines": [7,8,9]
+                    },
+                    {
+                        "nom": "Pedret",
+                        "via": "Carrer de ",
+                        "nom_es": "Pedret",
+                        "pagines": [68,69,70,71,72,73,74]
+                    },
+                    {
+                        "nom": "Pes de la Palla",
+                        "via": "Carrer del ",
+                        "nom_es": "Peso de la Paja",
+                        "pagines": [94,95,96,97]
+                    },
+                    {
+                        "nom": "Pla",
+                        "via": "Caseriu del ",
+                        "nom_es": "Llano",
+                        "pagines": [33,34]
+                    },
+                    {
+                        "nom": "Pont",
+                        "via": "Pujada del ",
+                        "nom_es": "Puente",
+                        "pagines": [17,18]
+                    },
+                    {
+                        "nom": "Pont Major",
+                        "via": "Carrer del ",
+                        "nom_es": "Pont Major",
+                        "pagines": [13,14,15,16,17,74,75,76,77,78,79,80,81,82,83]
+                    },
+                    {
+                        "nom": "Portal Nou",
+                        "via": "Carrer del ",
+                        "nom_es": "Portal Nou",
+                        "pagines": [103,104,105,106]
+                    },
+                    {
+                        "nom": "Pou Rodó",
+                        "via": "Carrer del ",
+                        "nom_es": "Pou Rodó",
+                        "pagines": [46,47]
+                    },
+                    {
+                        "nom": "Rosa",
+                        "via": "Carrer de la ",
+                        "nom_es": "Rosa",
+                        "pagines": [56,57]
+                    },
+                    {
+                        "nom": "Rutlla",
+                        "via": "Carrer de la ",
+                        "nom_es": "Rutlla",
+                        "pagines": [31,32,33]
+                    },
+                    {
+                        "nom": "Sabateries Velles",
+                        "via": "Carrer de les ",
+                        "nom_es": "Sabateria Vella",
+                        "pagines": [127,128]
+                    },
+                    {
+                        "nom": "Sant Agustí",
+                        "via": "Carrer de ",
+                        "nom_es": "Sn Agustin",
+                        "pagines": [27,28,29]
+                    },
+                    {
+                        "nom": "Sant Domènec",
+                        "via": "Pujada de ",
+                        "nom_es": "Stº Domingo",
+                        "pagines": [106,107]
+                    },
+                    {
+                        "nom": "Sant Feliu",
+                        "via": "Pujada de ",
+                        "nom_es": "Sn Felix",
+                        "pagines": [42,43]
+                    },
+                    {
+                        "nom": "Sant Pere",
+                        "via": "Plaça de ",
+                        "nom_es": "Sn Pedro",
+                        "pagines": [54,55]
+                    },
+                    {
+                        "nom": "Santa Llúcia",
+                        "via": "Pujada de ",
+                        "nom_es": "Sta Lucia",
+                        "pagines": [57]
+                    },
+                    {
+                        "nom": "Séquia",
+                        "via": "Carrer de la ",
+                        "nom_es": "Acequia",
+                        "pagines": [20,21,22]
+                    },
+                    {
+                        "nom": "Teatre",
+                        "via": "Carrer Nou del ",
+                        "nom_es": "Nueva del Teatro",
+                        "pagines": [100,101,102,103]
+                    },
+                    {
+                        "nom": "Torre Gironella",
+                        "via": "Carrer de la ",
+                        "nom_es": "Torre Gironella",
+                        "pagines": [67,68]
+                    },
+                    {
+                        "nom": "Vern",
+                        "via": "Carrer dels ",
+                        "nom_es": "Bern",
+                        "pagines": [97,98]
+                    }
+                ]
+            },
+            {
+                "any": 1860,
+                "categoria": "cens",
+                "id": "0003158949",
+                "carrers": [
+                    {
+                        "nom": "Portada",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [2,3,257]
+                    },
+                    {
+                        "nom": "Bernardes",
+                        "via": "Plaça de les ",
+                        "nom_es": "Bernardas",
+                        "pagines": [17]
+                    },
+                    {
+                        "nom": "Bernardes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Bernardas",
+                        "pagines": [17,18,19,20]
+                    },
+                    {
+                        "nom": "Canaders",
+                        "via": "Carrer dels ",
+                        "nom_es": "Canaders",
+                        "pagines": [57,58,59,60,61,62,63,64,65,66,67,68,69,70]
+                    },
+                    {
+                        "nom": "Fontanilles",
+                        "via": "Carrer de ",
+                        "nom_es": "Fontanillas",
+                        "pagines": [40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57]
+                    },
+                    {
+                        "nom": "Hortes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Huertas",
+                        "pagines": [10,11]
+                    },
+                    {
+                        "nom": "Indústria",
+                        "via": "Carrer de la ",
+                        "nom_es": "Yndustria",
+                        "pagines": [33]
+                    },
+                    {
+                        "nom": "Isabel II",
+                        "via": "Carrer d'",
+                        "nom_es": "Ysabel 2ª",
+                        "pagines": [27,28,29,30,31,32,33]
+                    },
+                    {
+                        "nom": "Mercadal",
+                        "via": "Plaça del ",
+                        "nom_es": "Mercadal",
+                        "pagines": [20,21,22]
+                    },
+                    {
+                        "nom": "Molí",
+                        "via": "Plaça del ",
+                        "nom_es": "Molino",
+                        "pagines": [22,23,24]
+                    },
+                    {
+                        "nom": "Obra",
+                        "via": "Carrer de l'",
+                        "nom_es": "Obra",
+                        "pagines": [15,16,17]
+                    },
+                    {
+                        "nom": "Perill",
+                        "via": "Carrer del ",
+                        "nom_es": "Perill",
+                        "pagines": [14,15]
+                    },
+                    {
+                        "nom": "Plantafaves",
+                        "via": "Carrer d'en ",
+                        "nom_es": "Plantafabas",
+                        "pagines": [40]
+                    },
+                    {
+                        "nom": "Pont Major",
+                        "via": "Carrer del ",
+                        "nom_es": "Pont Major",
+                        "pagines": [33,34,35,36,37,38]
+                    },
+                    {
+                        "nom": "Premsa",
+                        "via": "Carrer de la ",
+                        "nom_es": "Prensa",
+                        "pagines": [11,12]
+                    },
+                    {
+                        "nom": "Sala",
+                        "via": "Carrer d'en ",
+                        "nom_es": "Sala",
+                        "pagines": [38,39,40]
+                    },
+                    {
+                        "nom": "Sant Agustí",
+                        "via": "Plaça de ",
+                        "nom_es": "S. Agustín",
+                        "pagines": [4,5,6,7,8,38,39]
+                    },
+                    {
+                        "nom": "Sant Francesc",
+                        "via": "Carrer de ",
+                        "nom_es": "S. Francº",
+                        "pagines": [24,25,26,27]
+                    },
+                    {
+                        "nom": "Santa Clara",
+                        "via": "Carrer de ",
+                        "nom_es": "Sta. Clara",
+                        "pagines": [8,9,10]
+                    },
+                    {
+                        "nom": "Séquia",
+                        "via": "Carrer de la ",
+                        "nom_es": "Acequia",
+                        "pagines": [12,13,14]
+                    },
+                    {
+                        "nom": "Secció 2a",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180]
+                    },
+                    {
+                        "nom": "Secció 3a",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256]
+                    }
+                ]
+            },
+            {
                 "any": 1887,
                 "categoria": "cens",
                 "id": "0003158972",
@@ -1590,9 +2030,9 @@
                         "pagines": [98,99,100,101,102]
                     },
                     {
-                        "nom": "Font Major",
-                        "via": "Carrer de la ",
-                        "nom_es": "Fuente Mayor",
+                        "nom": "Pont Major",
+                        "via": "Carrer del ",
+                        "nom_es": "Puente Mayor",
                         "pagines": [102,103,104,105,106,107,108,109,110]
                     },
                     {
@@ -8646,6 +9086,533 @@
                         "via": "Travessia de ",
                         "nom_es": "Vista Alegre",
                         "pagines": [236,237]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nom": "Santa Eugènia de Ter",
+        "arxiu": "AMGi",
+        "ruta": "https://pandora.girona.cat/pdf.raw?query=id:%22[id]%22&page=[p]",
+        "anys": [
+            {
+                "any": 1924,
+                "categoria": "padró",
+                "id": "0003548276",
+                "carrers": [
+                    {
+                        "nom": "Portada",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [3,4,28]
+                    },
+                    {
+                        "nom": "Baix",
+                        "via": "Carrer de ",
+                        "nom_es": "Abajo",
+                        "pagines": [12,13,14,15,16]
+                    },
+                    {
+                        "nom": "Constitució",
+                        "via": "Plaça de la ",
+                        "nom_es": "Constitución",
+                        "pagines": [5,6]
+                    },
+                    {
+                        "nom": "Dalt",
+                        "via": "Carrer de ",
+                        "nom_es": "Arriba",
+                        "pagines": [6,7,8,9,10,11]
+                    },
+                    {
+                        "nom": "Despoblat",
+                        "via": "",
+                        "nom_es": "Despoblado",
+                        "pagines": [24,25,26,27]
+                    },
+                    {
+                        "nom": "Esbarjo",
+                        "via": "Plaça d'",
+                        "nom_es": "Recreo",
+                        "pagines": [20,21,22]
+                    },
+                    {
+                        "nom": "Girona",
+                        "via": "Carretera de ",
+                        "nom_es": "Gerona",
+                        "pagines": [16,17,18,19,20]
+                    },
+                    {
+                        "nom": "Progrés",
+                        "via": "Carrer del ",
+                        "nom_es": "Progreso",
+                        "pagines": [22,23,24]
+                    },
+                    {
+                        "nom": "Santa Coloma",
+                        "via": "Carrer de ",
+                        "nom_es": "Santa Coloma",
+                        "pagines": [11,12]
+                    }
+                ]
+            },
+            {
+                "any": 1930,
+                "categoria": "padró",
+                "id": "0003548277",
+                "carrers": [
+                    {
+                        "nom": "Portada",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [3,42,43,44,45,46,47,48,49,50,51,52,53,54,55]
+                    },
+                    {
+                        "nom": "Baix",
+                        "via": "Carrer de ",
+                        "nom_es": "Abajo",
+                        "pagines": [9,10,11,12,13]
+                    },
+                    {
+                        "nom": "Constitució",
+                        "via": "Plaça de la ",
+                        "nom_es": "Constitución",
+                        "pagines": [13,14]
+                    },
+                    {
+                        "nom": "Despoblat",
+                        "via": "",
+                        "nom_es": "Despoblado",
+                        "pagines": [37,38,39]
+                    },
+                    {
+                        "nom": "Esbarjo",
+                        "via": "Plaça d'",
+                        "nom_es": "Recreo",
+                        "pagines": [30,31,41]
+                    },
+                    {
+                        "nom": "Fàbrica",
+                        "via": "Travessia de la ",
+                        "nom_es": "Fábrica",
+                        "pagines": [8,9]
+                    },
+                    {
+                        "nom": "Girona",
+                        "via": "Carretera de ",
+                        "nom_es": "Gerona",
+                        "pagines": [20,21,22,23,24,25,26,27,28,29,40]
+                    },
+                    {
+                        "nom": "Güell",
+                        "via": "Carrer del ",
+                        "nom_es": "Guell",
+                        "pagines": [31,32]
+                    },
+                    {
+                        "nom": "Hortes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Huertas",
+                        "pagines": [15]
+                    },
+                    {
+                        "nom": "Illa",
+                        "via": "Carrer de l'",
+                        "nom_es": "Ysla",
+                        "pagines": [32,33,34,40]
+                    },
+                    {
+                        "nom": "Major",
+                        "via": "Carrer ",
+                        "nom_es": "Mayor",
+                        "pagines": [4,5,6,7,8,39]
+                    },
+                    {
+                        "nom": "Marquès de Camps",
+                        "via": "Carrer del ",
+                        "nom_es": "Marqués Camps",
+                        "pagines": [14,15,39]
+                    },
+                    {
+                        "nom": "Migdia",
+                        "via": "Carrer del ",
+                        "nom_es": "Mediodía",
+                        "pagines": [16,40]
+                    },
+                    {
+                        "nom": "Orient",
+                        "via": "Carrer d'",
+                        "nom_es": "Oriente",
+                        "pagines": [16,17,18,40]
+                    },
+                    {
+                        "nom": "Progrés",
+                        "via": "Carrer del ",
+                        "nom_es": "Progreso",
+                        "pagines": [34,35,36,40]
+                    },
+                    {
+                        "nom": "Salt",
+                        "via": "Carretera de ",
+                        "nom_es": "Salt",
+                        "pagines": [15,16]
+                    },
+                    {
+                        "nom": "Sant Cristòfor",
+                        "via": "Carrer de ",
+                        "nom_es": "San Cristobal",
+                        "pagines": [29,30,41]
+                    },
+                    {
+                        "nom": "Santa Coloma",
+                        "via": "Carrer de ",
+                        "nom_es": "Santa Coloma",
+                        "pagines": [19,20]
+                    },
+                    {
+                        "nom": "Sol",
+                        "via": "Carrer del ",
+                        "nom_es": "Sol",
+                        "pagines": [18,19]
+                    },
+                    {
+                        "nom": "Torín",
+                        "via": "Caseriu del ",
+                        "nom_es": "Torín",
+                        "pagines": [36,37,41]
+                    }
+                ]
+            },
+            {
+                "any": 1936,
+                "categoria": "padró",
+                "id": "0003548278",
+                "carrers": [
+                    {
+                        "nom": "Portada",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [3,16,17,18,19,20]
+                    },
+                    {
+                        "nom": "Baix",
+                        "via": "Carrer de ",
+                        "nom_es": "Abaix",
+                        "pagines": [4,5]
+                    },
+                    {
+                        "nom": "Camps",
+                        "via": "Placeta d'en ",
+                        "nom_es": "Camps",
+                        "pagines": [8]
+                    },
+                    {
+                        "nom": "Rafael Casanova",
+                        "via": "Carrer de ",
+                        "nom_es": "Rafael Casanova",
+                        "pagines": [8]
+                    },
+                    {
+                        "nom": "Jaume Compte",
+                        "via": "Carrer de ",
+                        "nom_es": "Jaume Compte",
+                        "pagines": [5]
+                    },
+                    {
+                        "nom": "Despoblat",
+                        "via": "",
+                        "nom_es": "Despoblat",
+                        "pagines": [15]
+                    },
+                    {
+                        "nom": "Esbarjo",
+                        "via": "Placeta d'",
+                        "nom_es": "Esbarjo",
+                        "pagines": [14]
+                    },
+                    {
+                        "nom": "Fàbrica",
+                        "via": "Travessia de la ",
+                        "nom_es": "Fábrica",
+                        "pagines": [9]
+                    },
+                    {
+                        "nom": "Girona",
+                        "via": "Carretera de ",
+                        "nom_es": "Girona",
+                        "pagines": [10,11,12,13]
+                    },
+                    {
+                        "nom": "Hortes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Hortes",
+                        "pagines": [5]
+                    },
+                    {
+                        "nom": "Illa",
+                        "via": "Carrer de l'",
+                        "nom_es": "Ylla",
+                        "pagines": [13]
+                    },
+                    {
+                        "nom": "Francesc Macià",
+                        "via": "Carrer de ",
+                        "nom_es": "Francesc Macià",
+                        "pagines": [10]
+                    },
+                    {
+                        "nom": "Major",
+                        "via": "Carrer ",
+                        "nom_es": "Major",
+                        "pagines": [5,6,7]
+                    },
+                    {
+                        "nom": "Marfà",
+                        "via": "Carrer de la ",
+                        "nom_es": "Marfà",
+                        "pagines": [7]
+                    },
+                    {
+                        "nom": "Migdia",
+                        "via": "Carrer del ",
+                        "nom_es": "Mitgdia",
+                        "pagines": [7]
+                    },
+                    {
+                        "nom": "Orient",
+                        "via": "Carrer de l'",
+                        "nom_es": "Orient",
+                        "pagines": [7]
+                    },
+                    {
+                        "nom": "Francesc Pi i Margall",
+                        "via": "Carrer de ",
+                        "nom_es": "Pi i Margall",
+                        "pagines": [13,14]
+                    },
+                    {
+                        "nom": "Progrés",
+                        "via": "Carrer del ",
+                        "nom_es": "Pogrés",
+                        "pagines": [14]
+                    },
+                    {
+                        "nom": "República",
+                        "via": "Plaça de la ",
+                        "nom_es": "República",
+                        "pagines": [7,8]
+                    },
+                    {
+                        "nom": "Riu Güell",
+                        "via": "Carrer del ",
+                        "nom_es": "Riu Güell",
+                        "pagines": [14,15]
+                    },
+                    {
+                        "nom": "Santiago Rusiñol",
+                        "via": "Carrer de ",
+                        "nom_es": "Santiago Rosinyol",
+                        "pagines": [9]
+                    },
+                    {
+                        "nom": "Salt",
+                        "via": "Carrer de ",
+                        "nom_es": "Salt",
+                        "pagines": [8]
+                    },
+                    {
+                        "nom": "Sant Cristòfor",
+                        "via": "Carrer de ",
+                        "nom_es": "San Cristòfor",
+                        "pagines": [15]
+                    },
+                    {
+                        "nom": "Santa Coloma",
+                        "via": "Carrer de ",
+                        "nom_es": "Santa Coloma",
+                        "pagines": [8,9]
+                    },
+                    {
+                        "nom": "Sol",
+                        "via": "Carrer del ",
+                        "nom_es": "Sol",
+                        "pagines": [9]
+                    },
+                    {
+                        "nom": "Torín",
+                        "via": "Caseriu del ",
+                        "nom_es": "Torín",
+                        "pagines": [16]
+                    }
+                ]
+            },
+            {
+                "any": 1940,
+                "categoria": "padró",
+                "id": "0003548279",
+                "carrers": [
+                    {
+                        "nom": "Portada",
+                        "via": "",
+                        "nom_es": "",
+                        "pagines": [3,4,5,6,7,101,102,103,129,130,131,132,133,134,135,136,137,138,139,140,141,142]
+                    },
+                    {
+                        "nom": "4 de febrer de 1939",
+                        "via": "Carrer del ",
+                        "nom_es": "4 de Febrero",
+                        "pagines": [89,90,104,125,126]
+                    },
+                    {
+                        "nom": "Baix",
+                        "via": "Carrer de ",
+                        "nom_es": "Abajo",
+                        "pagines": [43,44,45,46,47,48,49,50,51,52,104,113,114,115,116]
+                    },
+                    {
+                        "nom": "Cabdill",
+                        "via": "Plaça del ",
+                        "nom_es": "Caudillo",
+                        "pagines": [41,42,43,44,104,113,114]
+                    },
+                    {
+                        "nom": "Despoblat",
+                        "via": "",
+                        "nom_es": "Despoblado",
+                        "pagines": [95,96,97,98,104,127,128]
+                    },
+                    {
+                        "nom": "Esbarjo",
+                        "via": "Plaça d'",
+                        "nom_es": "Recreo",
+                        "pagines": [79,80,81,82,104,123,124]
+                    },
+                    {
+                        "nom": "Fàbrica",
+                        "via": "Travessia de la ",
+                        "nom_es": "Fábrica",
+                        "pagines": [51,52,104,115,116]
+                    },
+                    {
+                        "nom": "General Mola",
+                        "via": "Carrer del ",
+                        "nom_es": "General Mola",
+                        "pagines": [33,34,104,111,112]
+                    },
+                    {
+                        "nom": "General Queipo de Llano",
+                        "via": "Carrer del ",
+                        "nom_es": "General Queipo de Llano",
+                        "pagines": [33,34,104,111,112]
+                    },
+                    {
+                        "nom": "Girona",
+                        "via": "Carretera de ",
+                        "nom_es": "Gerona",
+                        "pagines": [55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,93,94,104,117,118,119,120,121,122,127,128]
+                    },
+                    {
+                        "nom": "Hortes",
+                        "via": "Carrer de les ",
+                        "nom_es": "Huertas",
+                        "pagines": [35,36,37,38,39,40,41,42,104,111,112,113,114]
+                    },
+                    {
+                        "nom": "Illa",
+                        "via": "Carrer de l'",
+                        "nom_es": "Ysla",
+                        "pagines": [75,76,77,78,79,80,104,121,122,123,124]
+                    },
+                    {
+                        "nom": "José Antonio",
+                        "via": "Carrer de ",
+                        "nom_es": "José Antonio",
+                        "pagines": [35,36,104,111,112]
+                    },
+                    {
+                        "nom": "José Calvo Sotelo",
+                        "via": "Carrer de ",
+                        "nom_es": "Calvo Sotelo",
+                        "pagines": [89,90,91,92,93,94,104,125,126,127,128]
+                    },
+                    {
+                        "nom": "Major",
+                        "via": "Carrer ",
+                        "nom_es": "Mayor",
+                        "pagines": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,104,105,106,107,108]
+                    },
+                    {
+                        "nom": "Marfà",
+                        "via": "Carrer de la ",
+                        "nom_es": "Marfá",
+                        "pagines": [53,54,104,115,116]
+                    },
+                    {
+                        "nom": "Marquès de Camps",
+                        "via": "Plaça del ",
+                        "nom_es": "Camps",
+                        "pagines": [31,32,104,109,110,111,112]
+                    },
+                    {
+                        "nom": "Mas Llinàs",
+                        "via": "",
+                        "nom_es": "Manso Llinás",
+                        "pagines": [95,96,104,127,128]
+                    },
+                    {
+                        "nom": "Migdia",
+                        "via": "Carrer del ",
+                        "nom_es": "Mediodía",
+                        "pagines": [31,32,33,34,104,111,112]
+                    },
+                    {
+                        "nom": "Orient",
+                        "via": "Carrer d'",
+                        "nom_es": "Oriente",
+                        "pagines": [22,23,24,25,26,104,107,108,109,110]
+                    },
+                    {
+                        "nom": "Progrés",
+                        "via": "Carrer del ",
+                        "nom_es": "Progreso",
+                        "pagines": [81,82,83,84,104,123,124]
+                    },
+                    {
+                        "nom": "Riu Güell",
+                        "via": "Carrer del ",
+                        "nom_es": "Río Guell",
+                        "pagines": [85,86,87,88,89,90,104,123,124,125,126]
+                    },
+                    {
+                        "nom": "Sant Cristòfor",
+                        "via": "Carrer de ",
+                        "nom_es": "S. Cristóbal",
+                        "pagines": [75,76,104,121,122]
+                    },
+                    {
+                        "nom": "Sant Sebastià",
+                        "via": "Carrer de ",
+                        "nom_es": "S. Sebastián",
+                        "pagines": [27,28,104,109,110]
+                    },
+                    {
+                        "nom": "Santa Coloma",
+                        "via": "Carrer de ",
+                        "nom_es": "Santa Coloma",
+                        "pagines": [27,28,29,30,31,32,104,109,110]
+                    },
+                    {
+                        "nom": "Sol",
+                        "via": "Carrer del ",
+                        "nom_es": "Sol",
+                        "pagines": [25,26,27,28,104,109,110]
+                    },
+                    {
+                        "nom": "Torín",
+                        "via": "Plaça del ",
+                        "nom_es": "Torín",
+                        "pagines": [97,98,99,100,104,127,128]
                     }
                 ]
             }
