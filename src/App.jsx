@@ -29,7 +29,7 @@ const App = () => {
     <div className="layout">
       <Sidebar poblacio={poblacio} setPoblacio={setPoblacio} />
       <div className="main-content">
-        <h1>Índex de padrons i censos municipals de les comarques gironines</h1>
+        <h1>Índex de padrons i censos municipals històrics de Catalunya</h1>
         <p>Selecciona una població del menú lateral de l'esquerra per consultar-ne els padrons i censos disponibles.</p>
         {poblacio != undefined ?
         <div>
