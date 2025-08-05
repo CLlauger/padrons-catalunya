@@ -1,5 +1,12 @@
 [
     {
+        "id": "caldes_d_estrac",
+        "nom": "Caldes d'Estrac",
+        "arxiu": "ACM",
+        "format": "JPG",
+        "ruta": "https://static.arxiusenlinia.cultura.gencat.cat/active/GIAC/TEXTUAL/70/11/2/[id],[p].jpg"
+    },
+    {
         "id": "girona",
         "nom": "Girona",
         "arxiu": "AMGi",

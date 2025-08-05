@@ -1,0 +1,348 @@
+[
+    {
+        "any": 1872,
+        "categoria": "padró",
+        "id": "2124/doc_ACM_4080241_2124",
+        "carrers": [
+            {
+                "nom": "Portada",
+                "via": "",
+                "nom_es": "",
+                "pagines": [1,3,9]
+            },
+            {
+                "nom": "El Callao",
+                "via": "Carrer d'",
+                "nom_es": "Callao",
+                "pagines": [127,128,129,130,131,132,133,134,135,136]
+            },
+            {
+                "nom": "",
+                "via": "Carretera",
+                "nom_es": "",
+                "pagines": [97]
+            },
+            {
+                "nom": "Església",
+                "via": "Carrer de l'",
+                "nom_es": "Yglesia",
+                "pagines": [52,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,73,74,75,76,77,78,79,80]
+            },
+            {
+                "nom": "Major",
+                "via": "Carrer ",
+                "nom_es": "Mayor",
+                "pagines": [2,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,72]
+            },
+            {
+                "nom": "Molí del Mar",
+                "via": "Carrer del ",
+                "nom_es": "Molino del Mar",
+                "pagines": [137]
+            },
+            {
+                "nom": "Ral",
+                "via": "Camí ",
+                "nom_es": "Real",
+                "pagines": [93,94,95,96,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126]
+            },
+            {
+                "nom": "Riera",
+                "via": "Carrer de la ",
+                "nom_es": "Riera",
+                "pagines": [85,86,87,88,89,90,91,92]
+            },
+            {
+                "nom": "Sant Josep",
+                "via": "Carrer de ",
+                "nom_es": "Sn José",
+                "pagines": [138,139,140,141,142,143,144,145,146,147,148,149,150]
+            },
+            {
+                "nom": "Sant Pere",
+                "via": "Carrer de ",
+                "nom_es": "Sn Pedro",
+                "pagines": [10,151,152,153,154,155,156,157,158,159,160,161,162,163]
+            },
+            {
+                "nom": "Santa Teresa",
+                "via": "Carrer de ",
+                "nom_es": "Sta Teresa",
+                "pagines": [4,5,6,7,8]
+            },
+            {
+                "nom": "Sota la Riera",
+                "via": "Carrer de ",
+                "nom_es": "Sota Riera (fondo)",
+                "pagines": [81,82,83,84]
+            }
+        ]
+    },
+    {
+        "any": 1883,
+        "categoria": "padró",
+        "id": "2128/doc_ACM_4080301_2128",
+        "carrers": [
+            {
+                "nom": "Portada",
+                "via": "",
+                "nom_es": "",
+                "pagines": [1]
+            },
+            {
+                "nom": "Bonavista",
+                "via": "Carrer de ",
+                "nom_es": "Buenavista",
+                "pagines": [162,163,164,165,166,167,168,169,170,171,172,173]
+            },
+            {
+                "nom": "El Callao",
+                "via": "Carrer d'",
+                "nom_es": "Callao",
+                "pagines": [71,72,73,74,75,76,77,78]
+            },
+            {
+                "nom": "Església",
+                "via": "Carrer de l'",
+                "nom_es": "Yglesia",
+                "pagines": [96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120]
+            },
+            {
+                "nom": "Major",
+                "via": "Carrer ",
+                "nom_es": "Mayor",
+                "pagines": [121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161]
+            },
+            {
+                "nom": "Pau",
+                "via": "Carrer de la ",
+                "nom_es": "Paz",
+                "pagines": [79,80,81]
+            },
+            {
+                "nom": "Ral",
+                "via": "Camí ",
+                "nom_es": "Real",
+                "pagines": [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]
+            },
+            {
+                "nom": "Riera",
+                "via": "Carrer de la ",
+                "nom_es": "Riera",
+                "pagines": [82,83,84,85,86,87,88,89,90,91,92,93,94,95]
+            },
+            {
+                "nom": "Sant Josep",
+                "via": "Carrer de ",
+                "nom_es": "San José",
+                "pagines": [35,36,37,38,39,40,41,42,43,44,45,46,47,48]
+            },
+            {
+                "nom": "Sant Pere",
+                "via": "Carrer de ",
+                "nom_es": "San Pedro",
+                "pagines": [49,50,51,52,53,54,55,56,57,58,59,60,61,62]
+            },
+            {
+                "nom": "Santa Teresa",
+                "via": "Carrer de ",
+                "nom_es": "Sta Teresa",
+                "pagines": [63,64,65,66,67,68,69,70]
+            }
+        ]
+    },
+    {
+        "any": 1885,
+        "categoria": "padró",
+        "id": "2850/doc_ACM_4093236_2850",
+        "carrers": [
+            {
+                "nom": "Portada",
+                "via": "",
+                "nom_es": "",
+                "pagines": [1]
+            },
+            {
+                "nom": "El Callao",
+                "via": "Carrer d'",
+                "nom_es": "Callao",
+                "pagines": [157,158,159,160,161,162,163]
+            },
+            {
+                "nom": "Església",
+                "via": "Carrer de l'",
+                "nom_es": "Yglesia",
+                "pagines": [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]
+            },
+            {
+                "nom": "Estació",
+                "via": "Passeig de l'",
+                "nom_es": "Estación",
+                "pagines": [195,196,197]
+            },
+            {
+                "nom": "Fondo",
+                "via": "Baixada del ",
+                "nom_es": "Fondo",
+                "pagines": [80,81,82]
+            },
+            {
+                "nom": "Major",
+                "via": "Carrer ",
+                "nom_es": "Mayor",
+                "pagines": [37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]
+            },
+            {
+                "nom": "Mig",
+                "via": "Carrer del ",
+                "nom_es": "Medio",
+                "pagines": [33,34,35,36]
+            },
+            {
+                "nom": "Nostra Senyora del Remei",
+                "via": "Carrer de ",
+                "nom_es": "Nuestra Sra del Remedio",
+                "pagines": [76,77,78,79]
+            },
+            {
+                "nom": "Pau",
+                "via": "Carrer de la ",
+                "nom_es": "Paz",
+                "pagines": [189,190,191,192,193,194]
+            },
+            {
+                "nom": "Platja",
+                "via": "Carrer de la ",
+                "nom_es": "Playa",
+                "pagines": [185,186,187,188]
+            },
+            {
+                "nom": "Ral",
+                "via": "Camí ",
+                "nom_es": "Real",
+                "pagines": [83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,198]
+            },
+            {
+                "nom": "Riera",
+                "via": "Carrer de la ",
+                "nom_es": "Riera",
+                "pagines": [143,144,145,146,147,148,149,150,151,152,153,154,155,156]
+            },
+            {
+                "nom": "Sant Josep",
+                "via": "Carrer de ",
+                "nom_es": "San José",
+                "pagines": [171,172,173,174,175,176,177,178,179,180,181,182,183,184]
+            },
+            {
+                "nom": "Sant Pere",
+                "via": "Carrer de ",
+                "nom_es": "San Pedro",
+                "pagines": [124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142]
+            },
+            {
+                "nom": "Santa Teresa",
+                "via": "Carrer de ",
+                "nom_es": "Sta Teresa",
+                "pagines": [164,165,166,167,168,169,170]
+            }
+        ]
+    },
+    {
+        "any": 1887,
+        "categoria": "padró",
+        "id": "2255/doc_ACM_4087963_2255",
+        "carrers": [
+            {
+                "nom": "Portada",
+                "via": "",
+                "nom_es": "",
+                "pagines": [1]
+            },
+            {
+                "nom": "El Callao",
+                "via": "Carrer d'",
+                "nom_es": "Callao",
+                "pagines": [30,31]
+            },
+            {
+                "nom": "Església",
+                "via": "Carrer de l'",
+                "nom_es": "Yglesia",
+                "pagines": [5,6,7,8,9]
+            },
+            {
+                "nom": "Estació",
+                "via": "Baixada de l'",
+                "nom_es": "Estación",
+                "pagines": [32,33]
+            },
+            {
+                "nom": "Fondo",
+                "via": "Baixada del ",
+                "nom_es": "Fondo",
+                "pagines": [5]
+            },
+            {
+                "nom": "Major",
+                "via": "Carrer ",
+                "nom_es": "Mayor",
+                "pagines": [10,11,12,13,14,15,16,17]
+            },
+            {
+                "nom": "Mig",
+                "via": "Carrer del ",
+                "nom_es": "Medio",
+                "pagines": [9]
+            },
+            {
+                "nom": "Nostra Senyora del Remei",
+                "via": "Carrer de ",
+                "nom_es": "Ntra Sra del Remedio",
+                "pagines": [4,5]
+            },
+            {
+                "nom": "Pau",
+                "via": "Carrer de la ",
+                "nom_es": "Paz",
+                "pagines": [31,32]
+            },
+            {
+                "nom": "Platja",
+                "via": "Carrer de la ",
+                "nom_es": "Playa",
+                "pagines": [31]
+            },
+            {
+                "nom": "Ral",
+                "via": "Camí ",
+                "nom_es": "Real",
+                "pagines": [17,18,19,20,21,22,23]
+            },
+            {
+                "nom": "Riera",
+                "via": "Carrer de la ",
+                "nom_es": "Riera",
+                "pagines": [2,3]
+            },
+            {
+                "nom": "Sant Josep",
+                "via": "Carrer de ",
+                "nom_es": "San José",
+                "pagines": [24,25,26,33]
+            },
+            {
+                "nom": "Sant Pere",
+                "via": "Carrer de ",
+                "nom_es": "San Pedro",
+                "pagines": [26,27,28,29]
+            },
+            {
+                "nom": "Santa Teresa",
+                "via": "Carrer de ",
+                "nom_es": "Santa Teresa",
+                "pagines": [29,30]
+            }
+        ]
+    }
+]
