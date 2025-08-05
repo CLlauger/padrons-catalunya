@@ -5,6 +5,7 @@ import "./styles.css";
 
 const App = () => {
   const [poblacio, setPoblacio] = useState();
+  const [padrons, setPadrons] = useState();
   const [anySeleccionat, setAnySeleccionat] = useState(undefined);
   const [carrer, setCarrer] = useState();
   const [valorSelector, setValorSelector] = useState();
@@ -27,30 +28,30 @@ const App = () => {
 
   return (
     <div className="layout">
-      <Sidebar poblacio={poblacio} setPoblacio={setPoblacio} />
+      <Sidebar poblacio={poblacio} setPoblacio={setPoblacio} setPadrons={setPadrons} setAnySeleccionat={setAnySeleccionat} />
       <div className="main-content">
         <h1>Índex de padrons i censos municipals històrics de Catalunya</h1>
         <p>Selecciona una població del menú lateral de l'esquerra per consultar-ne els padrons i censos disponibles.</p>
-        {poblacio != undefined ?
+        {poblacio != undefined & padrons != undefined ?
         <div>
             <h2>{poblacio?.nom}</h2>
             {
-                poblacio.anys.length > 0 ?
+                padrons.length > 0 ?
                 <center>
                   {/* ANYS */}
                   <div className="seccions">
                     {
-                      poblacio.anys.map((a, index) => (
-                        <button title={a.any} key={index} className={`boto-seccio ${anySeleccionat === a ? "boto-actiu" : ""}`}
+                      padrons.map((p, index) => (
+                        <button title={p.any} key={index} className={`boto-seccio ${anySeleccionat === p ? "boto-actiu" : ""}`}
                           onClick={() => {
-                            setAnySeleccionat(a);
-                            let nouCarrer = a.carrers[0];
+                            setAnySeleccionat(p);
+                            let nouCarrer = p.carrers[0];
                             setCarrer(nouCarrer);
                             setValorSelector({value: nouCarrer, label: `${nouCarrer.via}${nouCarrer.nom}`});
                             setPagina(0);
                             setTotalPagines(nouCarrer.pagines.length);
                           }}>
-                          <h3>{a.any}<br/><small>({a.categoria})</small></h3>
+                          <h3>{p.any}<br/><small>({p.categoria})</small></h3>
                         </button>
                       ))
                     }
@@ -136,11 +137,11 @@ const App = () => {
                     {/* IMATGE */}
                     {
                       carrer != undefined ?
-                        poblacio.arxiu == "AMGi" ?
+                        poblacio.format == "PDF" ?
                         <iframe width="95%" style={{height: "100vh"}} src={poblacio.ruta.replace("[id]", anySeleccionat.id).replace("[p]", carrer.pagines[pagina])}></iframe>
                         :
-                        <a href={`#`} target="_blank">
-                          <img width="95%" src={`#`}></img>
+                        <a href={poblacio.ruta.replace("[id]", anySeleccionat.id).replace("[p]", carrer.pagines[pagina].toString().padStart(4, "0"))} target="_blank">
+                          <img width="95%" src={poblacio.ruta.replace("[id]", anySeleccionat.id).replace("[p]", carrer.pagines[pagina].toString().padStart(4, "0"))}></img>
                         </a>
                       :
                       ""
